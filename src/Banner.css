@@ -3,7 +3,6 @@
   position: relative;
   object-fit: contain;
   color: white;
-
 }
 
 .banner__contents {
@@ -48,8 +47,13 @@
   background-color: rgba(35, 33, 33, 0.632);
 }
 
-.banner__button:hover{
-    color: rgb(255, 255, 255);
-    background-color: #e01313;
-    transition: all 0.2s;
+.banner__play {
+  color: rgb(255, 255, 255);
+  background-color: #e01313;
+}
+
+.banner__button:hover {
+  color: black;
+  background-color: #d3d2d2c9;
+  transition: all 0.2s;
 }

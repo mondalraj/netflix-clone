@@ -1,0 +1,16 @@
+From this project I have learnt the following ->
+1. Creating React Components
+2. Writing code in JSX
+3. Project folder setup
+create-react-app netflix-clone --template redux
+4. useState()
+5. useEffect()
+6. API call using axios
+7. TMDB API request call using fetch API
+8. Rendering data from API to the JSX
+9. Props
+10. How to overcome the map undefined thing
+11. Getting rid of some dead links from API response
+12. Nav Bar cool scroll animation
+13. banner bottom awesome fade in effect
+14. Truncate function very nice
