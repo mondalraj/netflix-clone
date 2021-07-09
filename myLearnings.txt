@@ -15,3 +15,4 @@ create-react-app netflix-clone --template redux
 13. banner bottom awesome fade in effect
 14. Truncate function very nice
 15. Firebase deployment
+16. 
