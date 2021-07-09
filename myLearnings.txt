@@ -14,3 +14,4 @@ create-react-app netflix-clone --template redux
 12. Nav Bar cool scroll animation
 13. banner bottom awesome fade in effect
 14. Truncate function very nice
+15. Firebase deployment
