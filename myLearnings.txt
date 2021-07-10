@@ -1,4 +1,6 @@
 From this project I have learnt the following ->
+
+-> Front end of HomeScreen and API integration
 1. Creating React Components
 2. Writing code in JSX
 3. Project folder setup
@@ -15,4 +17,15 @@ create-react-app netflix-clone --template redux
 13. banner bottom awesome fade in effect
 14. Truncate function very nice
 15. Firebase deployment
-16. 
+
+-> Authentication and plans/profile and landing/login screen
+16. Installing firebase using CMD
+17. React Router (npm install reate-router-dom)
+18. File folder structure for screens
+19. Conditional routing if user is logged in or not logged in, premium menber or a trial version etc...
+20. object-fit: contain; //css
+21. Effective use of CSS positions -> fixed, relative, absolute
+22. Effective Trick to add bg gradient and little fading effect for banner
+23. Removing the outline blue border of input field by 
+    outline-width: 0;
+24.
